@@ -17,8 +17,8 @@
     "standard-version": "^9.0.0"
   },
   "volta": {
-    "node": "15.0.1",
-    "npm": "7.0.3"
+    "node": "15.1.0",
+    "npm": "7.0.8"
   },
   "dependencies": {
     "husky": "^5.0.0-beta.0"
